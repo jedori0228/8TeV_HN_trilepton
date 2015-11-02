@@ -1,0 +1,10 @@
+.DS_Store
+.AppleDouble/
+*.so
+*.d
+*.pcm
+*.pdf
+*.root
+*.log
+*.rtf
+*.key
